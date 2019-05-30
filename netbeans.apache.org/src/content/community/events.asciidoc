@@ -43,7 +43,7 @@ For publicizing NetBeans events, the Apache News posts at https://blogs.apache.o
 
 27th September 2019 Apache NetBeans Day 2019 UK is a free one day conference in  London, UK. link:https://www.eventbrite.co.uk/e/apache-netbeans-day-2019-uk-tickets-56803479737[free tickets and more details]
 
-10th January 2020 Dawscon is a one day software development conference in Montreal, Canada. It will have several NetBeans enthusiastists speaking and at least one dedicated NetBeans talk. link:https://www.dawsoncollege.qc.ca/dawscon/
+10th January 2020 Dawscon is a one day software development conference in Montreal, Canada. It will have several NetBeans enthusiastists speaking and at least one dedicated NetBeans talk. link:https://www.dawsoncollege.qc.ca/dawscon
 
 This is a link to the next Apache Community major events:
 
